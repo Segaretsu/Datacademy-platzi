@@ -21,9 +21,8 @@ def main ():
             Select: ''')
         print("-- Type of money selected: [" + typeMoney + "] --")
         amount = input("Enter the amount of money you want to change to dollar: ")
-        print("amount: " + amount)
         change = exchanges(int(amount), int(typeMoney))
-        print("The exchange of money to dollar is: " + str(change) + " USD")
+        print("The change from money to dollars is: " + str(change) + " USD")
     except:
         print("--- ERROR ---")
         print("Only number value")
