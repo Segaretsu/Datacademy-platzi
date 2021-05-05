@@ -14,12 +14,9 @@ img1 (Supervised ML process)
 **Supervised ML process**  (img1)
 1. Have tagged observations of the data that we are going to use to train our algorithm.
 2. Have the following two data sets: 
-  - **Training set:** Data to train our model. 
-  - **Test set:** Data to validate if our training model is efficient or not.
+    - **Training set:** Data to train our model. 
+    - **Test set:** Data to validate if our training model is efficient or not.
 3. Machine learning model (RL model): Model to train with our data sets, for predict future or previous data in based in given data set (img2).
 4. Statistical evaluation of the model.
-  - Evaluate the effectiveness of the model.
-  - Retraining if necessary.
-
-
-
+    - Evaluate the effectiveness of the model.
+    - Retraining if necessary.
