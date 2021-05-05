@@ -8,8 +8,8 @@ the recommendation for this course is to first take a linear algebra and machine
 
 ## Module 2: Introduction to ML and the Algorithms
 ### Class Two: linear regression and machine learning
-img1 (Supervised ML process)
-![](https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/Superviced_ML_process.png?raw=true)  
+img1 (Supervised ML process)  
+<img width="450px" src="https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/Superviced_ML_process.png?raw=true" >
 
 **Supervised ML process**  (img1)
 1. Have tagged observations of the data that we are going to use to train our algorithm.
@@ -21,5 +21,5 @@ img1 (Supervised ML process)
     - Evaluate the effectiveness of the model.
     - Retraining if necessary.
 
-img2 (Machine ML)
-![](https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/Supervised_ML_example.png?raw=true)
+img2 (Machine ML)  
+<img width="450px" src="https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/Supervised_ML_example.png?raw=true" >
