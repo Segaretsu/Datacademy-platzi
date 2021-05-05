@@ -16,7 +16,10 @@ img1 (Supervised ML process)
 2. Have the following two data sets: 
     - **Training set:** Data to train our model. 
     - **Test set:** Data to validate if our training model is efficient or not.
-3. Machine learning model (RL model): Model to train with our data sets, for predict future or previous data in based in given data set (img2).
+3. Machine learning model (ML model): Model to train with our data sets, for predict future or previous data in based in given data set (img2).
 4. Statistical evaluation of the model.
     - Evaluate the effectiveness of the model.
     - Retraining if necessary.
+
+img2 (Machine ML)
+![](https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/Supervised_ML_example.png?raw=true)
