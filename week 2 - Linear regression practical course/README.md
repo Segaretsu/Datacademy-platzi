@@ -60,4 +60,8 @@ Y = b<sub>0</sub> + b<sub>1</sub> * ( X )
 - **b<sub>1</sub> (slope)**: is a slope.
 
 **The slope**  
-The inclination of our system, it can be positive or negative.
+The inclination of our system, it can be positive or negative.  
+
+**Helpers:**
+- **Youtube:** [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://www.youtube.com/watch?v=k964_uNn3l0)
+- **Platzi:** [Explicación Matemática de la Regresión Lineal](https://platzi.com/clases/1766-regresion-python/25391-explicacion-matematica-de-la-regresion-lineal/)
