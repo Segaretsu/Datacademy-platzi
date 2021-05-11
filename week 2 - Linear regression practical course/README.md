@@ -64,4 +64,15 @@ The inclination of our system, it can be positive or negative.
 
 **Helpers:**
 - **Youtube:** [Regresión Lineal y Mínimos Cuadrados Ordinarios | DotCSV](https://www.youtube.com/watch?v=k964_uNn3l0)
-- **Platzi:** [Explicación Matemática de la Regresión Lineal](https://platzi.com/clases/1766-regresion-python/25391-explicacion-matematica-de-la-regresion-lineal/)
+- **Platzi:** [Explicación Matemática de la Regresión Lineal](https://platzi.com/clases/1766-regresion-python/25391-explicacion-matematica-de-la-regresion-lineal/)  
+
+#### Examples
+**With positive slope:** We want to know if the amount of study hours in platzi per month is equivalent to the number of courses completed. (img4 slope positive)  
+
+img4 (slope positive)  
+<img with="150px" src="https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/linear_regression_example_1.png?raw=true" >
+
+**With negative slope:** We want to know if the number of hours not studied in platzi per month is equivalent to the number of courses not completed. (img5 slope negative)  
+
+img5 (slope negative)  
+<img with="250px" src="https://github.com/Segaretsu/Datacademy-platzi/blob/main/assets/images/linear_regression_example_2.png?raw=true" >  
