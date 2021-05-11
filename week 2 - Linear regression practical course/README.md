@@ -51,7 +51,8 @@ img3 (Supervised algorithms summary)
 - **Random forest**: used in classifications primarily and regressions.
 
 ### Class 3 Mathematical explanation of linear regression
-**Simple linear regression EQUATION:** Y = b<sub>0</sub> + b<sub>1</sub> * ( X )  
+**Simple linear regression EQUATION:**  
+Y = b<sub>0</sub> + b<sub>1</sub> * ( X )  
 **Explanation**:
 - **Y**: is a dependent variable.
 - **X**: is a independent variable.
